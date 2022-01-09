@@ -1,0 +1,1 @@
+Технология программирования Message Passing Interface (MPI). 3 курс в МИЭТ.
