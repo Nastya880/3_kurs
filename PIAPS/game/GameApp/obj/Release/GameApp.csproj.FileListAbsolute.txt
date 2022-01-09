@@ -1,0 +1,11 @@
+D:\Проектирование и архитектура программных систем\игра\winforms-maze-master\winforms-maze-master\GameApp\bin\Release\GameApp.exe.config
+D:\Проектирование и архитектура программных систем\игра\winforms-maze-master\winforms-maze-master\GameApp\bin\Release\GameApp.exe
+D:\Проектирование и архитектура программных систем\игра\winforms-maze-master\winforms-maze-master\GameApp\bin\Release\GameApp.pdb
+D:\Проектирование и архитектура программных систем\игра\winforms-maze-master\winforms-maze-master\GameApp\obj\Release\GameApp.Form1.resources
+D:\Проектирование и архитектура программных систем\игра\winforms-maze-master\winforms-maze-master\GameApp\obj\Release\GameApp.PlayerControl.resources
+D:\Проектирование и архитектура программных систем\игра\winforms-maze-master\winforms-maze-master\GameApp\obj\Release\GameApp.Properties.Resources.resources
+D:\Проектирование и архитектура программных систем\игра\winforms-maze-master\winforms-maze-master\GameApp\obj\Release\GameApp.csproj.GenerateResource.cache
+D:\Проектирование и архитектура программных систем\игра\winforms-maze-master\winforms-maze-master\GameApp\obj\Release\GameApp.csproj.CoreCompileInputs.cache
+D:\Проектирование и архитектура программных систем\игра\winforms-maze-master\winforms-maze-master\GameApp\obj\Release\GameApp.exe
+D:\Проектирование и архитектура программных систем\игра\winforms-maze-master\winforms-maze-master\GameApp\obj\Release\GameApp.pdb
+D:\Проектирование и архитектура программных систем\игра\winforms-maze-master\winforms-maze-master\GameApp\obj\Release\GameApp.csprojAssemblyReference.cache
