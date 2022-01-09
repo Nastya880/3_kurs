@@ -1,0 +1,42 @@
+C:\C#\WinForms\2020.02.28 GameApp\GameApp\GameApp\bin\Debug\GameApp.exe.config
+C:\C#\WinForms\2020.02.28 GameApp\GameApp\GameApp\bin\Debug\GameApp.exe
+C:\C#\WinForms\2020.02.28 GameApp\GameApp\GameApp\bin\Debug\GameApp.pdb
+C:\C#\WinForms\2020.02.28 GameApp\GameApp\GameApp\obj\Debug\GameApp.csprojAssemblyReference.cache
+C:\C#\WinForms\2020.02.28 GameApp\GameApp\GameApp\obj\Debug\GameApp.Properties.Resources.resources
+C:\C#\WinForms\2020.02.28 GameApp\GameApp\GameApp\obj\Debug\GameApp.csproj.GenerateResource.cache
+C:\C#\WinForms\2020.02.28 GameApp\GameApp\GameApp\obj\Debug\GameApp.exe
+C:\C#\WinForms\2020.02.28 GameApp\GameApp\GameApp\obj\Debug\GameApp.pdb
+C:\C#\WinForms\2020.02.28 GameApp\GameApp\GameApp\obj\Debug\GameApp.Form1.resources
+C:\C#\WinForms\2020.02.28 GameApp\GameApp\GameApp\obj\Debug\GameApp.PlayerControl.resources
+C:\C#\WinForms\2020.02.28 GameApp\GameApp2\GameApp\obj\Debug\GameApp.csprojAssemblyReference.cache
+C:\C#\WinForms\2020.02.28 GameApp\GameApp2\GameApp\obj\Debug\GameApp.Form1.resources
+C:\C#\WinForms\2020.02.28 GameApp\GameApp2\GameApp\obj\Debug\GameApp.PlayerControl.resources
+C:\C#\WinForms\2020.02.28 GameApp\GameApp2\GameApp\obj\Debug\GameApp.Properties.Resources.resources
+C:\C#\WinForms\2020.02.28 GameApp\GameApp2\GameApp\obj\Debug\GameApp.csproj.GenerateResource.cache
+C:\C#\WinForms\2020.02.28 GameApp\GameApp2\GameApp\obj\Debug\GameApp.exe
+C:\C#\WinForms\2020.02.28 GameApp\GameApp2\GameApp\obj\Debug\GameApp.pdb
+C:\C#\WinForms\2020.02.28 GameApp\GameApp2\GameApp\bin\Debug\GameApp.exe.config
+C:\C#\WinForms\2020.02.28 GameApp\GameApp2\GameApp\bin\Debug\GameApp.exe
+C:\C#\WinForms\2020.02.28 GameApp\GameApp2\GameApp\bin\Debug\GameApp.pdb
+C:\Users\Administrator\Downloads\GameApp2_1583160749\GameApp2\GameApp\bin\Debug\GameApp.exe.config
+C:\Users\Administrator\Downloads\GameApp2_1583160749\GameApp2\GameApp\bin\Debug\GameApp.exe
+C:\Users\Administrator\Downloads\GameApp2_1583160749\GameApp2\GameApp\bin\Debug\GameApp.pdb
+C:\Users\Administrator\Downloads\GameApp2_1583160749\GameApp2\GameApp\obj\Debug\GameApp.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\GameApp2_1583160749\GameApp2\GameApp\obj\Debug\GameApp.Form1.resources
+C:\Users\Administrator\Downloads\GameApp2_1583160749\GameApp2\GameApp\obj\Debug\GameApp.PlayerControl.resources
+C:\Users\Administrator\Downloads\GameApp2_1583160749\GameApp2\GameApp\obj\Debug\GameApp.Properties.Resources.resources
+C:\Users\Administrator\Downloads\GameApp2_1583160749\GameApp2\GameApp\obj\Debug\GameApp.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\GameApp2_1583160749\GameApp2\GameApp\obj\Debug\GameApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\GameApp2_1583160749\GameApp2\GameApp\obj\Debug\GameApp.exe
+C:\Users\Administrator\Downloads\GameApp2_1583160749\GameApp2\GameApp\obj\Debug\GameApp.pdb
+C:\Users\Анастасия\source\repos\winforms-maze-master\GameApp\bin\Debug\GameApp.exe.config
+C:\Users\Анастасия\source\repos\winforms-maze-master\GameApp\bin\Debug\GameApp.exe
+C:\Users\Анастасия\source\repos\winforms-maze-master\GameApp\bin\Debug\GameApp.pdb
+C:\Users\Анастасия\source\repos\winforms-maze-master\GameApp\obj\Debug\GameApp.csprojAssemblyReference.cache
+C:\Users\Анастасия\source\repos\winforms-maze-master\GameApp\obj\Debug\GameApp.Form1.resources
+C:\Users\Анастасия\source\repos\winforms-maze-master\GameApp\obj\Debug\GameApp.PlayerControl.resources
+C:\Users\Анастасия\source\repos\winforms-maze-master\GameApp\obj\Debug\GameApp.Properties.Resources.resources
+C:\Users\Анастасия\source\repos\winforms-maze-master\GameApp\obj\Debug\GameApp.csproj.GenerateResource.cache
+C:\Users\Анастасия\source\repos\winforms-maze-master\GameApp\obj\Debug\GameApp.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\source\repos\winforms-maze-master\GameApp\obj\Debug\GameApp.exe
+C:\Users\Анастасия\source\repos\winforms-maze-master\GameApp\obj\Debug\GameApp.pdb
